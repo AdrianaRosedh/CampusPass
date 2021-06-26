@@ -1,3 +1,0 @@
-Version: 1.0.0
-  - Bootstrap to version 5.0.1
-
